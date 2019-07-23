@@ -32,7 +32,7 @@
       {
         "schema_id": "datatype.string",
         "properties": {
-          "value": "This message was sent from the Action Orchestrator",
+          "value": "This message was sent from the Action Orchestrator\n#add",
           "scope": "input",
           "name": "text",
           "type": "datatype.string",
